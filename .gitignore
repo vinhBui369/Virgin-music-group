@@ -1,0 +1,7 @@
+wp-config.php
+.htaccess
+*.DS_Store
+.hintrc
+wp-content/uploads
+wp-content/backups-dup-pro
+node_modules
